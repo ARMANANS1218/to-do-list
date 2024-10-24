@@ -80,6 +80,6 @@ If you would like to contribute to this project, feel free to fork the repositor
 
 ### Author
 
-**Your Name**  
-[GitHub Profile]([https://github.com/your-username](https://github.com/ARMANANS1218))
+**YArman Ansari**  
+[GitHub Profile](https://github.com/ARMANANS1218)
 
