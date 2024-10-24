@@ -11,7 +11,7 @@ A simple and intuitive To-Do List application built with HTML, CSS, JavaScript, 
 
 ## Demo
 
-![To-Do List App Screenshot](path_to_screenshot)
+![To-Do List App Screenshot](Screenshot 2024-10-25 044311.png)
 
 ## Technologies Used
 
