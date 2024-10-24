@@ -80,6 +80,6 @@ If you would like to contribute to this project, feel free to fork the repositor
 
 ### Author
 
-**YArman Ansari**  
+**Arman Ansari**  
 [GitHub Profile](https://github.com/ARMANANS1218)
 
